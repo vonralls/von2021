@@ -1,0 +1,20 @@
+
+.container {
+  text-align: center;
+  margin-top: 25%;
+}
+
+.iconCols a, a:visited{
+  color: #104E8B;
+}
+
+.icon {
+  font-size: 115px;
+  padding: 30px;
+  transition: all 0.3s ease-in-out 0s;
+}
+.icon:hover {
+  cursor: default;
+  transform: rotate(360deg);
+  transition: all 0.3s ease-in-out 0s; 
+}
