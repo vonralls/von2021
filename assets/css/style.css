@@ -1,7 +1,7 @@
 
 .container {
   text-align: center;
-  margin-top: 25%;
+  margin-top: 20%;
 }
 
 .iconCols a, a:visited{
@@ -16,5 +16,5 @@
 .icon:hover {
   cursor: default;
   transform: rotate(360deg);
-  transition: all 0.3s ease-in-out 0s; 
+  transition: all 0.3s ease-in-out 0s;
 }
