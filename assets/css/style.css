@@ -3,6 +3,10 @@
   text-align: center;
   margin-top: 20%;
 }
+.von {
+  font-size: 40px;
+  color: #104E8B;
+}
 
 .iconCols a, a:visited{
   color: #104E8B;
